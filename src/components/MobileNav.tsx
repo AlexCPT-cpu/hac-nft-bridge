@@ -1,10 +1,9 @@
 import { Transition } from "@headlessui/react";
 import {
   Bars3Icon,
-  MagnifyingGlassIcon,
   XMarkIcon,
 } from "@heroicons/react/20/solid";
-import React, { Fragment } from "react";
+import { Fragment } from "react";
 import { NavProps } from "../vite-env";
 import { ConnectKitButton } from "connectkit";
 import truncateEthAddress from "truncate-eth-address";

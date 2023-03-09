@@ -2,7 +2,6 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/20/solid";
 import { useState } from "react";
 import Logo from "../assets/3333.jpeg";
 import { ConnectKitButton } from "connectkit";
-import MobileNav from "../components/MobileNav";
 import truncateEthAddress from "truncate-eth-address";
 
 const Header = () => {
