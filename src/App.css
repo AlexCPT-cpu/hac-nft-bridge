@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@900&display=swap');
+
+.nav {
+    font-family: 'Urbanist', sans-serif;
+}
+
+.screen {
+    width: 100vw;
+    height: 100vh;
+}
